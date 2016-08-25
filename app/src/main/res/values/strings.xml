@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora2016</string>
+    <string name="action_option_real">Calculadora</string>
+    <string-array name="operationsArray">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplica</item>
+        <item>Divide</item>
+    </string-array>
+</resources>
